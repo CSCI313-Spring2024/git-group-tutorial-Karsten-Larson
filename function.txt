@@ -1,3 +1,6 @@
 This is a representation of an unfinished function a group member is working
 on.
 This is a new change from Karsten Larson
+This is a new change from Syanne Voxland
+This is a new change from Lisa Johnson
+This is a new change from Gavyn Nygren
